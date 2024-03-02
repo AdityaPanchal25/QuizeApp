@@ -40,3 +40,7 @@ A Spring Boot application for a quiz platform with three categories of questions
 ### Contributors
 
 - [Your Name or Username]
+
+DataBase View
+![quizedb](https://github.com/AdityaPanchal25/QuizeApp/assets/125076518/47f83d00-0a52-4952-bcd9-6ee7b0567fc2)
+
